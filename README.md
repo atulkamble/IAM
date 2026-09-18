@@ -1,6 +1,6 @@
 # AWS Identity and Access Management (IAM)
 
-## Users, Groups, Policies & MFA — Basic Practice Guide
+## Users, Groups, Policies & MFA — Practice Guide
 
 ### 1. Introduction to IAM
 
